@@ -1,0 +1,29 @@
+---
+title: "MH_DisEco_Fall2025"
+author: "Madeline Hamborg"
+format: html
+editor: visual
+---
+
+## 8/26/2025
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![](images/EpiTriad.png)
+
+This is a picture of a disease ecology triangle. It shows the relationship between host, pathogen and environment. So far we have seen how each of these ideas come together and represent disease ecology. The host can contain a pathogen which also is impacted by environment. That being said, the environment can impact characteristics of the pathogen and also the host. They all come together to represent a cohesive understanding of disease.
