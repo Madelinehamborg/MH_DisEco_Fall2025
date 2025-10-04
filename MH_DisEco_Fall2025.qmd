@@ -47,6 +47,9 @@ b) 99% confidence in detecting a disease at 2% prevalence in a large population
 You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\_\_\_ (\<, =, \>) \_\_\_\_%
 
 \<1%
+------------------------------------------------------------------------
+10/07/2025
+
 a) Find incidence on day 06/12/25, 06/14/25, and 06/15/25. Write the unit for incidence. (9 points)
 
 6/12/25=>8/52=0.154 per elk/day
