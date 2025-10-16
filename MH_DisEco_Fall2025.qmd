@@ -48,36 +48,42 @@ You sample 300 deer from a high fenced facility that has a herd of 4000. None of
 
 \<1%
 ------------------------------------------------------------------------
-10/07/2025
-
+10/07/2025-- Try 2
 a) Find incidence on day 06/12/25, 06/14/25, and 06/15/25. Write the unit for incidence. (9 points)
 
-6/12/25=>8/52=0.154 per elk/day
+6/12/25=>New cases:5 so susceptible= 56-1-4=51
 
-pop at risk: 56-4=52 and new cases=8
+incidence: 5/51=0.098=9.8% per day
 
-6/14/25=> 0/43= 0 per elk/day
+6/14/25=> New cases:2 so susceptible=56-12=44
 
-pop at risk: 56-13=43 and new cases=0
+Incidence:2/44= 0.0455=4.6% per day
 
-6/15/25=>0/43= 0 per elk/day
+6/15/25=>New cases: 0 So susceptible=56-14=42
 
--pop at risk: 56-13=43 and new cases=0
+Incidence=0/42=0% per day
 
 b) What is the prevalence of conjunctivitis on 6/13/25 and 6/16/25? What is the unit for prevelance
 
-6/13/25=> 13/56=0.232 (proportion of pop)
+6/13/25=> 12/56=0.214=21.4%
 
-6/16/25=> 0/56=0 (proportion of pop)
+6/16/25=> 5/56=0.089=8.9%
+
+The unit for incidence is % of population at a point in time.
+
+The unit of prevelance is a percentage of infected/whole population.
 
 C) On which day is the prevalence same as incidence (except the units)?
 
-2/56=0.036 and 2/56=0.036 on 6/10/2025
+1/56=17.9% and 1/56=17.9% on 6/10/2025
 
 d) On which day is incidence lowest?
 
-6/14 and 6/15.
+6/15 and 6/16
 
-6/14/25: 0/43=0
+6/15/25: 0/42=0 new cases
 
-6/15/25: 0/43=0
+6/16/25=0/42 new cases
+
+
+
