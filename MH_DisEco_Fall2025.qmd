@@ -85,6 +85,7 @@ d) On which day is incidence lowest?
 
 6/16/25=0/42 new cases
 ------------------------------------------------------------------------
+10/23/2025
 1.	MERS-CoV is primarily maintained in human populations. (3 points)
 FALSE. It is not primarily contained in humans. Its reservoir host is camels.  Human-Human transmission can occur when in close contact. According to the evidence, there isn’t sustained transmission in human species. 
 2.	Camels serve as the main animal reservoir for MERS-CoV. (3 points)
