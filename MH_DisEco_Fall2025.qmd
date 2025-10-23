@@ -84,6 +84,21 @@ d) On which day is incidence lowest?
 6/15/25: 0/42=0 new cases
 
 6/16/25=0/42 new cases
+------------------------------------------------------------------------
+1.	MERS-CoV is primarily maintained in human populations. (3 points)
+FALSE. It is not primarily contained in humans. Its reservoir host is camels.  Human-Human transmission can occur when in close contact. According to the evidence, there isn’t sustained transmission in human species. 
+2.	Camels serve as the main animal reservoir for MERS-CoV. (3 points)
+TRUE. It is in camels in the middle east/Africa, and the virus circulates through them. It can sometimes spillover to humans, but it is the camels that are the main reservoirs. Camels maintain the virus in the population for an elongated period of time.
+3.	Humans are dead-end hosts for MERS-CoV. (3 points)
+TRUE. Humans are dead end hosts because the transmission is limited and is not sustained within the population. Although secondary infection/transmission and spill over occur, it isn’t sustained.
+4.	The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (3 points)
+FALSE. The information above says 35% of reported MERS cases have died, not 65%. Case fatality corresponds to the amount of people who die specifically from a disease.
+5.	The epidemic curve shows a point source outbreak. (3 points)
+FALSE. There are multiple peaks over time. This means outbreaks are not from a single source point and can come from various environments such as sporadic areas or health care. Based on the look of the graph, it could represent a zoonotic spillover event. It could also be from multiple exposure events, and not just single exposure.
+
+6.	Global MERS cases have declined sharply since 2019. Why do you think this decline occurred? Discuss possible ecological, epidemiological, and behavioral factors that may have contributed to this trend.    (5 points)
+There are many factors that could cause this decline. Ecologically, there could be a reduction in contact between humans and infected camel. The decreased contact can be from travel, movement/trade of camel, or changes in travel trends. Behaviorally, there may have been changes due to the COVID-19 strain. People started taking precautions such as mask-wearing, increased sanitation, and human-human isolation. There was also a decrease in trave due to the bans many countries/areas put on. Epidemiologically, health care systems worked to prevent secondary outbreaks. There was also a rise in infection control awareness.
+
 
 
 
