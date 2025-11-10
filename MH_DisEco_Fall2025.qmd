@@ -108,6 +108,7 @@ The Marburg Virus would be considered a spillover event under this frame work. A
 
 There are many measures that can be implemented to reduce transmission. Early identification and isolation can be extremely beneficial. By reporting cases early and going into immediate isolation, it can reduce the spread. Another example would be to promote practices where there is safe burial/handling of fluids which can contain the spread within a community. Public and community education can also help raise awareness. By spreading information on awareness and prevention, numbers of cases can die down. An example of this would be to education communities on where the wildlife is that causes/transmits the disease. There can also be infectious control/training protocols in healthcare setting that can aid those with the infection. Even just by training, monitoring, isolating, and having good hygeine in the healthcare setting, a population could see a decreased risk of transmission. 
 
+11/10/2025
 POND 1
 Prevalence: 30%
 95% Cl: Lower= 14% and Upper= 53%
