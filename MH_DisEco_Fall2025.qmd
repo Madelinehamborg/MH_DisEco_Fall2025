@@ -135,3 +135,86 @@ Langya henipavirus (LayV) is an emerging zoonotic virus first identified in Chin
 
 Based on what we know, the likely reservoir is shrew. The evidence that backed this claim up included high LayV detection in the shrews in comparison to other animals. Not only was it detected, but it was able to circulate the virus in nature. The likely mode of transmission is a zoonotic spillover from shrews to humans. This could have occurred through direct contact, indirect contact (fecal/urine/saliva), and possible contamination of food or other surfaces. There are many reasons as to why layV is not considered a potential EID. For one, there is no ongoing human-human transmission and all detected cases were considered sporadic. Not only this, but the amount of cases is very low and found in small rural areas. There is a small number of cases and there was also no evidence found of increasing cases or incidence. Since there are no sustained modes/chains of transmission with humans and human infection only occurs when in contact with the natural reservoir, one can assume this is a spillover. 
 
+11/19/2025
+B. procyonis analysis
+
+By region (Prevalence):
+North: 14 infected/49 total= 28.6%     Confidence interval: lower 17%/ upper 42.8%
+South: 27 infected/43 total= 62.8%     Confidence interval: lower 44.7%/ upper 75.9%
+Central: 9 infected/14 total=64.3%     Confidence interval: lower 37.1%/ upper 84.7%
+
+Overall Prevalence (all regions):
+Overall: 50 infected/106 total=47.2%
+P-value by region: 0.0016
+
+Median Intensity (By region):
+North: 2
+South: 2
+Central: 4 
+Overall (all regions): 3
+
+Mean intensity: 
+North: 3.31
+South: 11.59
+Central: 12.22
+Overall (all regions): 9.51 
+
+By gender (Prevalence):
+North: 
+Total: 21 females and 28 males
+Prevalence in female: 8 infected/ 21 total= 38% Confidence interval: lower 19.7%/upper 59.7%
+Prevalence in males: 6 infected/ 28 total= 21.4% Confidence interval: 9.8%/upper 40.9%
+
+South: 
+Total: 11 females and 32 males
+Prevalence in female: 11 infected/11 total: 100% Confidence interval: lower 73.6%/upper 100%
+Prevalence in males: 16 infected/ 32 total: 50% Confidence interval: 32.6%/upper 67.4%
+
+Central: 
+Total: 5 females 9 males
+Prevalence in female: 5 infected/ 5 total=100% Confidence interval: 50%/upper 100% 
+Prevalence in males: 4 infected/ 9 total= 44.4% Confidence interval: lower 16.9%/upper 74.9%
+
+
+
+
+Overall prevalence in all regions (F/M)
+Females: 24 infected/ 37 total females: 64.9%    Confidence interval: lower 48.6%/ upper: 78.6%
+Males: 26 infected/ 69 males: 37.7%                   Confidence interval: lower 26.7%/upper: 50% 
+P-value Male vs. Female: 0.0087
+
+
+
+By age (Prevalence): 
+
+North:
+Total: 25 adults and 24 young adults 
+Young adults: 7 infected/ 24 young adults: 29.2% Confidence interval: lower 13.9%/upper 50%
+Adults: 7 infected/ 25 adults: 28% Confidence interval: lower 13.4%/upper 48%
+
+South: 
+Total: 12 young adults and 31 adults
+Young adults: 6 infected/12 total: 50% Confidence interval: lower 24.3%/upper 75.7%
+Adults: 21 infected/ 31 total: 67.7% Confidence interval: lower 50%/upper 82.9%
+
+Central:
+Total: 13 adults and 1 young adult
+Young adults: 1 infected/1 total: 100% Confidence interval: lower 5%/upper 100%
+Adults: 8 infected/ 13 total: 61.5% Confidence interval: lower 34.2%/upper: 83.4%
+
+Overall prevalence in age groups:
+Total adults: 69
+Total young adults: 37
+
+P value young adult vs adult: 0.2212 
+
+Adults: 36 infected/69 total: 52.17%
+Young adults: 14 infected/37 total: 37.8%
+
+
+Analysis/Explanation:
+There are many trends and patterns that can be found when looking at this data. The first thing I did was look at differences in regions. The North region contained significantly lower prevalence compared to South and Central. This could occur for many reasons. For one, there may be a difference in raccoon density in these areas which affects egg transmission and fecal contamination. Considering there are different regions, a difference in temperature and humidity might impact survivability of the eggs. Also behavioral patterns may differ in the north, leading to less transmission/contact which is needed for infections to occur. Although there were some differences, the intensity rate stayed very similar in the 3 regions. Although a region may have more events including exposure, the worms that cause infection have around the same impact on each region. The p value was significant at 0.0016 since it's less than 0.05. 
+
+The next area I looked at was gender. I found that females have a higher prevalence than males. Some possible reasons for this include behavioral maternal instincts. Since females are typically in a “home range”, it could increase their exposure. I also found that females stay in dens longer, also increasing their risk to exposure and infection. The p value was 0.0087 which is statistically significant. 
+
+I then looked at age-based differences. Adults presented with a higher prevalence than young adults. I think this is the case because adults have more time to accumulate infection which could lead to this result. Also, young adults are still trying to find their established territories which may reduce exposures. Although there are some patterns between the two ages, the P-value is 0.2212 which is not statistically significant. 
