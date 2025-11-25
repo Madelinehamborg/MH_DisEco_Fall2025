@@ -218,3 +218,52 @@ There are many trends and patterns that can be found when looking at this data. 
 The next area I looked at was gender. I found that females have a higher prevalence than males. Some possible reasons for this include behavioral maternal instincts. Since females are typically in a “home range”, it could increase their exposure. I also found that females stay in dens longer, also increasing their risk to exposure and infection. The p value was 0.0087 which is statistically significant. 
 
 I then looked at age-based differences. Adults presented with a higher prevalence than young adults. I think this is the case because adults have more time to accumulate infection which could lead to this result. Also, young adults are still trying to find their established territories which may reduce exposures. Although there are some patterns between the two ages, the P-value is 0.2212 which is not statistically significant. 
+
+11/24/2025 --Memo
+To: Iowa department of public health
+From: Madeleine Hamborg FOWS 7200
+Date: 11/24/2025
+Subject: Health risks and recommended actions for Mpox
+Purpose: 
+This memo is meant to provide an overview of information regarding Mpox. This memo will look at detection, characterization, prevention, and next steps if cases were to appear. 
+Natural reservoir: Mpox is a virus that is closely related to small pox. The natural reservoir is not 100% confirmed, but it is most strongly linked to rodents in Africa. Non-incidental hosts include non-human primates. The wildlife reservoirs enable long term viral persistence in the environment and temporal/periodic spillover to humans. 
+Causative agent: Mpox is a double-stranded DNA virus found in the orthopoxvirus family. Mpox can be split up into Clade I (Central African//more severe) and Clade II (Western Africa). 
+Transmission pathways: 
+There are many ways in which Mpox can be transmitted. The first includes respiratory droplets from face-to-face exposure, contaminated fomites, and direct contact with body fluids. There can also be spillover events including human-to-human and animal-to-human (zoonotic). Animal-to-human can occur through scratches/ bites and handling infected animals. In contrast, human-to-human can occur from close physical contact, direct contact with body fluid/lesions, sexual contact, and contaminated surfaces.
+Geographic distribution:
+In the past, Mpox had been endemic to areas in west and central Africa. In 2022, an outbreak occurred across Europe and North America. There were 87,000 confirmed cases globally and driven by global travel, decreased immunity of smallpox, and human-rodent interactions. Areas with close contact communities and networks still occasionally report infections of Mpox. Cases have declined since 2022, but possible re-introduction to other regions is possible. 
+Clinical presentation:
+Some common symptoms include lethargy, chills, fever, headache, body aches, fatigue, and also a rash. The rash can be unique to an infection and may have pustules, scabs, and vesicles. The rash may present as localized or spread across multiple regions of the body. For those who have immuno deficiency, there can be secondary infections including pneumonia and encephalitis. 
+Implications of risk with importing Mpox (Iowa):
+A case coming into Iowa could pose several risks. Iowa has limited clinical exposure to Mpox, leaving them vulnerable to possible infection. The rash may be mistaken for various other infections due to its broad/vague characterization. There is also a risk of group transmission in communities and healthcare settings from close contact. Fomite spread may occur due to environmental persistence. Not only is this infection a risk to locals/populations, it can also impact healthcare workers due to possible direct exposure. There may be possible delayed cases in healthcare from indirect exposure as well. Ecologically, there is a possibility of spillback into US rodent populations. Due to Mpox’s broad host range, there is always a risk of a spillover event occurring which has the opportunity to infect the wildlife in Iowa. Iowa contains ecological analogues to the African rodents, which could theoretically support viral replication and infection if exposed. 
+
+Actionable public health recommendations: 
+Provider preparedness:
+The use of PPE and handling contaminated materials safely
+Hygienic sanitation and awareness of infection
+Quick action on clinical recognition (e.g genital lesions)
+Case management:
+Immediate isolation of infected individuals
+Contact tracing within 21 days
+The use of antivirals
+Surveillance:
+Access to PCR testing
+Require rapid reporting to IDPH
+Increase testing/screening in facilities
+Infection control: 
+Require using N95 masks and proper PPE to reduce chance of transmission
+Enforce contact and airborne procedures for those who may have Mpox
+Community communication:
+Give transparent and clear information on transmission to the public
+Discourage practices including handling rodents
+Disease ecology: 
+Use preventative measures in environment to decrease risk of spillover events
+Use trends from wildlife organizations to predict trends and various dynamics
+
+Conclusion:
+Mpox is considered a global public health concern because of its spread through human international travel patterns, human-to-human transmissions, and animal-to-human transmission (zoonotic). A reported case in Iowa could result in local/community spread of infection. It is important to use preventative measures to ensure no outbreak occurs. If able to properly manage disease ecology strategies, Iowa can minimize the risk of sustained transmission for both humans and animals. 
+
+
+Citations
+Mpox. Cleveland Clinic. (2025, November 7). https://my.clevelandclinic.org/health/diseases/22371-monkeypox 
+World Health Organization. (2024, August 26). Mpox. World Health Organization. https://www.who.int/news-room/fact-sheets/detail/mpox 
