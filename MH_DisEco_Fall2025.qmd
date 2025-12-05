@@ -283,3 +283,116 @@ World Health Organization. (2024, August 26). Mpox. World Health Organization. h
 2.A coinfection with KoRV affects the severity, progression, and management of chlamydia. This infection decreased the koala population by 30% between 2018 and 2021. Things like environmental stressors, habitat fragmentation, and climate change increase the production of the stress hormone. KoRV-B affects the immune system and when coinfected with chlamydia, makes cases more severe. The chlamydia is in a higher bacterial load due to the lack of immune function these koalas contain. The lack of immune function allows the chlamydia itself and the chlamydia symptoms to become more aggressive. This can include severe infertility, worse conjunctivitis, and other reproductive issues. Mechanistically, KoRV-B integrates into host immune cells which alter cytokine expression. In terms of disease progression, most koalas have faster progression of chlamydia if they are co-diagnosed with KoRV-B. The disease may also progress to a more systemic case. KoRV-B makes it progress quicker by causing immune dysregulation that resembles retroviral infections and accelerating the pathogen lifecycle/replication. In terms of management, KoRV-B makes it hard to treat and manage chlamydia. It does this by reducing treatment success, more need for care, complications with immune response, and issues with implications. Antibiotics become less helpful because the immune system is already having problems. If a koala has a coinfection of KoRV-B and chlamydia, medical attention is needed including fluids, hospitalization, pain control, etc. Another big aspect is that there is no effective anti-viral treatment for KoRV-B.
 
 3.SFD is caused by Ophidiomyces ophiodiicola which impacts wild snake populations.There are many challenges with surveillance and management of SFD. One issue is that the fungus persists in soil, decaying leaves, and debris from wood. This curates a long term reservoir in which snakes interact with. Many snakes show minimal or broad ranging symptoms that may be mistaken for other infections. The inability to diagnose early due to the vague symptoms makes researchers underestimate prevalence. Snakes have a seasonal pattern which means they are not active at certain times. In these patterns, there is a hibernation period where there is immunosuppression of snakes. The O. ophiodiicola can persist in soils which make it even harder to eliminate. Some reservoirs in the environment can also help to sustain transmission. There is a lot of variation and severity differences across species which makes it hard to quantify data accurately. There are also diagnostic issues including expensive qPCRS that may have false negatives due to the low amount of fungus that could appear on the snake. There is also a lack of funding, issues with captivity, and overlapping symptoms with other diseases that can cause challenges in surveying and management. Overall, management issues can arise from low detectability, diagnostic limitations, seasonal immunosuppression and issues with monitoring infection.
+
+Name: Madeline Hamborg
+December 3, 2025 
+WILD 5200/6200 FOWS 7200 
+Disease Ecology Final 
+1. True or False. If false, explain why the statement is incorrect (10 points) 
+a. Per the community–epidemiology continuum proposed by Fenton and Pedersen  (2005), a disease caused by a pathogen with high between-species transmission and  not within–target species transmission will be termed a spillover. 
+True
+b. A viral disease that is transmitted to susceptible hosts only by vectors is infectious as well as contagious. 
+False: Vectors are things like mosquitoes and ticks. They are infectious but are not contagious.Contagious is when disease is transmitted directly from host to host. Vector borne disease such as the one mentioned lacks direct transmission from infected to infected, making it infectious but not contagious. 
+c. The eggs of Baylisascaris procyonis can be transmitted to humans by direct  contact immediately after excretion by an infected raccoon. 
+False:  Raccoon roundworms are not immediately infected post shedding. They must embryonate for 2-4 weeks in the environment in order to become infectious. The eggs are shed in raccoon feces and become infectious once they develop in environments, which can take between 18 days to several weeks. This means that direct contact immediately after would not result in infection. According to Lec 15, these eggs accumulate at latrine sites and can be infective for up to 6 years.
+d. A fungus growing on tall fescue leaves is responsible for decreased feed intake in  cattle grazing on this grass, resulting in reduced weight gain and lower milk production. 
+False: The fungus itself is not responsible for reduced feed intake or reduced milk production. The endophytic fungus produces toxic ergot alkaloids which cause fescue toxicoses. This leads to the decreased feed intake, reduced weight gain, and lower milk production.
+e. Northern cardinals are considered a superspreader species for West Nile virus.
+False: They are not superspreaders. The Northern Cardinal is a supersuppressor. It fails to amplify the transmission and is not as competent as a host for west nile. According to Lecture 16, culex shifted to feeding on Northern cardinals in July-August, ultimately decreasing human risk in Atlanta GA. The American Robin is known as the superspreader. It is a migratory bird in which mosquitos feed on in the early half of season (June). Because Robins are asymptomatic, they are considered superspreaders of WNV. It is also known that avian viremia levels are high in August-September which is a window of infectivity.
+2. List the community-based interventions used for preventing dracunculiasis  transmission in endemic regions. Explain how each intervention interrupts specific  stages of the Guinea worm life cycle. How have these strategies evolved in recent years given the emergence of animal (particularly dog) infections? (10 points)
+According to Lecture 11, there are a few ways to intervene on dracunculiasis transmission in endemic regions. Although there is no treatment or vaccination, it is in the process of becoming eradicated. In terms of intervention, we must disrupt the transmission cycle. One way is by filtering water. The water contains water fleas with the larvae in it. We can also focus on providing incentives for those who are infected to not contaminate the water sources which would continue infection. There are also larvicides which can kill the copepods and break transmission cycles. 
+The preventative measures intervene on specific stages of the guinea worm life cycle. By using mesh cloth or other filters, it can stop humans from ingesting copepods infected with Dracunculus by removing the crustacean physically from the water. Without the consumption of the copepods, the parasite cannot enter and develop within the human host, breaking the cycle. As previously mentioned, larvicide is also a known intervention. This treatment is for contaminated water, and works to reduce or delete the intermediate host which is the infected copepod. This breaks the cycle between the water and humans. Some common themes we have mentioned in this class are health education and surveillance/case detection. These practices can be done as well by preventing infected people from entering shared water sources and encouraging reporting. If they are able to detect contamination early, they can prevent a female worm from releasing its larvae which would prevent the whole parasitic life cycle from occurring. 
+Lecture 11 talks about the emergence in dogs as well. It was found that cases tend to spike during summer and that the dogs are free roaming. Strategies evolved for cases specifically to dogs. Some strategies include keeping dogs out of water sources and preventing them from eating possible contaminated fish entrails. These can help prevent more transmission and infection of this parasite.
+
+
+
+
+3. Chronic wasting disease (CWD) is an emerging prion disease of cervids and one of the most significant wildlife conservation challenges in North America. What are the main obstacles wildlife agencies face in managing and controlling CWD? (10 points)
+
+There are many obstacles wildlife agencies face when managing/controlling CWD. According to lecture 11, CWD is caused by misfolded proteins called prions. These spread and mutate through the body. They spread through the nervous system of deer, with concentrations higher in specific regions. CWD is spread through direct contact from deer to deer and also indirectly. Indirectly, prions can reside in soils that become contaminated by carcasses and bodily fluids.  Prions are unique in that they can remain in the environment and stay infectious for years after. Interestingly, the infections have an incubation period of 1 ½ -3 years post-exposure. The deer may appear normal, leading to more contaminations and infections. Some signs of CWD include weight loss, weird behavior, and sometimes death.  
+
+Based on this information, there are many challenges when trying to control CWD. The long incubation and pre-symptom shedding allows infection to reside for a long time before clinical signs appear. This makes it difficult to obtain early detection and removal of the CWD. The environmental persistence of the prions also creates challenges for maintenance because it is hard to decontaminate long-term reservoirs. Although there is testing that can be done to look for CWD, testing of live deer has been proven to be challenging, due to the high mobility and dispersal of deer. There is also human-mediated spread. Things like moving carcasses, contaminated equipment, and processed venison can cause the spread of CWD. 
+4. You are given data from a closed study population of 60 RFID-tagged armadillos monitored at sampling stations (no capture required). At the start of the study (December 2024) none were infected with Mycobacterium leprae. During the follow-up period, monthly assessments documented the following counts of infected animals in the population: 
+• March 2025: 3 infected 
+• April 2025: 5 infected 
+• May 2025: 5 infected 
+• June 2025: 8 infected 
+• July 2025: 13 infected 
+(No deaths, births, immigration, or recovery occurred during the study.) 
+a. Calculate the monthly incidence of M. leprae infection. Show your calculations and state the units.  
+(5 points) 
+March 2025: 3/60= 0.05 cases per armadillo-month
+April 2025: 5-3= 2/57=0.035 cases per armadillo-month
+May 2025: 5-5=0    0/55=0 cases per armadillo-month
+June 2025: 8-5=3   3/55=0.055 cases per armadillo-month 
+July 2025: 13-8=5  5/52= 0.096 cases per armadillo-month
+
+b. Which month had the highest prevalence? Which month had the lowest prevalence? Show your calculations and state the units. (5 points) 
+
+March 2025: 3 infected/60 total= 5%
+April 2025: 5 infected/60 total=8.3%
+May 2025: 5 infected/60 total= 8.3%
+June 2025: 8 infected/60 total=13.3%
+July 2025: 13 infected/60 total=21.7%
+
+The highest prevalence is in the month of July at 21.7% and the lowest is in March at 5%.
+
+
+
+
+5. A beaver carcass was found at the Gunnison River Whitewater Park, Gunnison, Colorado in October 2025. Samples collected during the postmortem examination were submitted to the Veterinary Diagnostic Lab. The lab reported that the animal was positive for Tularemia. 
+a. Name the etiological agent of this disease. What subspecies of this agent causes Tularemia in aquatic animals like beavers? (2 points) 
+Based on lecture 19.2, Tularemia is a zoonotic infection caused by Francisella tularensis. Specifically, the aquatic cycle type B subspecies holartica. For this one, beavers are primary host for this pathogen. Type B is commonly associated with waterborne outbreaks and infections in semiaquatic mammals
+b. What are the different routes of transmission for this agent? (2 points) 
+There are a few routes of transmission. There is vector borne transmission from ticks (deer flies, lone star tick, american dog tick, and mosquitos). It can also be transmitted through direct contact of handling these mammals or their fluids or carcasses. It can also be ingested and inhaled for transmission. Drinking contaminated water and eating undercooked infected meat are two ways of ingesting. In terms of inhalation, aerosolized bacteria from contaminated soil and vegetation or during activities like landscaping. Overall, environmental exposure of contaminated water sources can cause a lot of these. There have been no reports of tularemia being spread from person to person. Some dead end hosts are humans, cats, and dogs.
+c. Describe key features/characteristics of this pathogen in the context of human health/ public health. (3 points)
+According to lecture 19.2, this pathogen can disrupt the immune system and its components. It also has a very low infectious dose making it a significant public health concern. It is considered a category A  bioterrorism agent due to the aerosolization and environmental persistence. There are also variations in clinical presentation including ulceroglandular (skin), glandular (lymph nodes), oculoglandular (eye contamination), oropharyngeal (ingestion), pneumonic (inhalation), typhoid (systemic). In terms of type B strains, they can survive long periods in water, increasing the risk of transmission. Although there is no human to human transmission, there is a wide host range with frequent spillover to humans. Due to the low infectious dose (10-50 organisms) makes it a potential bioterrorism weapon. 
+6. Match the following (5 points) 
+a. Fungal pathogen of conservation concern 1. Powassan encephalitis 
+b. Avian Vacuolar Myelinopathy 2. Ophidiomyces ophiodiicola 
+c. Tick-transmitted viral disease 3. Borrelia burgdorferi 
+d. Foreign Animal Disease 4. Aetokthonotoxin 
+e. Bell’s palsy, Bulls-eye rash 5. Pseudogymnoascus destructans  
+6. African Swine Fever
+a.5 , b. 4, c.1, d.6, e.3
+7. Refer to the life cycle of blacklegged tick to answer 7a – 7d. (8 points) 
+a. The two stages of blacklegged tick that can potentially transmit Lyme disease to humans are: _Nymph_ and __Adult___.  
+b. Preferred hosts of the larval stage of Ixodes scapularis are: White footed mice and _small birds (in pic on powerpoint 12)__. 
+c. Lyme disease risk posed by host-seeking nymphs of I. scapularis is greatest during _May-July__ (season/months) while Lyme disease risk posed by host-seeking adults is greatest during Oct-April (On PP 12)  (season/months).  
+d. The natural reservoir and competent hosts of Borrelia burgdorferi in North America: __White footed mouse__. White-tailed deer are the __Primary reproductive host__ in the Lyme disease system.
+8. Georgia has a white-tailed deer population of ~ 1 million. A total of 1351 samples from hunter-harvested deer were tested for Chronic Wasting Disease in 2022. None of the samples tested positive for CWD. Using the hypergeometric distribution, Georgia DNR determines that CWD is not present above 0.2% prevalence in Georgia’s white tailed deer population. You are asked to comment on Georgia DNR’s CWD surveillance approach. In your commentary, explain the downside of using hypergeometric distribution for making decisions about wildlife disease surveillance. (10 points)
+When using hypergeometric distribution, Georgia DNR is looking at if true CWD prevalence were at least 0.2%, what is the probability that we would still detect zero positives in a sample of 1351 animals? Because the probability is low (statistically), they choose to infer that CWD is not likely to surpass 0.2% prevalence. This logic is strong if the hypergeometric model holds. 
+It is known that hunter-harvested deer are not a random sample of deer in the statewide population. Hunters disproportionately kill certain ages and sex of deer, hunt in known/popular hunting areas, and avoid other areas of kill. Private lands may also go unsampled, leading to the possibility of CWD spread without knowledge to public health officials. The hypogeometric approach makes it seem as if all 1351 deer were drawn evenly from all 1 million deer. In reality, there are many biases and other factors in this subset of the population.
+It should also be known that test sensitivity is not perfect. There is a chance of false negatives due to early infections or sampling the wrong tissues. This is not only a problem in itself, but also increases the risk of missing infected animals beyond the model. Overall, the major downfall of hypogeometric reliance is that it can create a false sense of certainty. It is read as if “CWD is not present above 0.2%”, when instead it means that all of the other assumptions must be true and be confident at the 90-95% level. In an everyday normal wildlife system, there are many confounding variables like uneven sampling, imperfect tests, spatial clustering, population movement, environmental, and long incubation periods. These factors violate the assumptions of the hypogeometric methods. Although hypergeometric methods are useful for statistics/ planning, it is important to combine it with other forms of risk-based and surveillance methods.
+9. 
+
+
+Place the following diseases in appropriate quadrants in the above figure. Explain your choice of quadrants. (10 points) 
+a. SARS-CoV-2: Quadrant 4- Potential EID 
+b. Hantavirus Pulmonary Syndrome Quadrant 4- Potential EID
+c. Langya Henipavirus- Quadrant 1- spillover
+d. Brucellosis: Quadrant 3- True multihost pathogen
+e. West Nile virus: Quadrant 1- Spillover
+
+10. Anisakiasis is the disease caused by infection with the stomach worm Anisakis simplex. It reaches sexual maturity and reproduces in marine mammals. In the following figure, identify the definitive host, a dead-end host, a paratenic host, and an intermediate host. Explain your answers.  
+(8 points)
+
+
+Definitive host: The definitive host is marine mammals. This is because the parasite reaches sexual maturity and reproduces in marine mammals. It then releases eggs into the ocean via fecal matter.
+
+Dead-end host: The dead-end host is humans. Humans can become infected by eating undercooked/raw fish that contain larvae in the L3 stage. Although humans can become infected, the parasite can’t reproduce or mature in humans, causing it to be a dead end host.
+
+Paratenic host: Cephalopod and fish are paratenic hosts. These hosts maintain parasites without development of parasites. Its only role is to transport the parasite in the food chain. It does this by encysting into muscle tissue and waits to be eaten by a definitive host.
+
+Intermediate host: The intermediate host is marine crustaceans. In this intermediate  host, the parasite will undergo a developmental stage. In this case, the eggs that hatch into larvae are eaten by crustaceans and they develop into an L2 stage.
+
+11. All infected hosts are diseased. Comment using appropriate examples. (3 points) 
+This statement is incorrect. There can be situations in which something is infected but NOT diseased. Some infections can be asymptomatic, lacking disease characteristics. An example would be the meningeal worm that infects WTD but shows no symptoms. COVID-19 is also an example of this. A significant proportion of infected individuals show now symptoms but can still spread the infection.
+12. Klepac et al. estimated an R0 of 2.5 for the 2002 Phocine Distemper virus epidemic in Dutch harbor seals. Assuming that an effective PDV vaccine is available, what proportion of the seal population should be vaccinated to prevent a future outbreak of PDV?  
+ (3 points)
+PDV is talked about in lecture 10. To find the amount that needs to be vaccinated, we use 1-1/Ro. So 1/2.5= 0.4 and 1-0.4=0.6. So, 60% of the seal population would need vaccination to prevent future outbreak.
+
+13. What are some of the main challenges in managing wildlife diseases? Explain using relevant 
+examples. (6 points)
+
+There are many challenges when it comes to managing wildlife diseases. For one, detecting disease in free ranging animals. Wild animals make it difficult to capture, sample, and observe the species. An example of this we talked about in class is CWD. Because of the long incubation period and the ability to shed prions for months to years, there is difficulty managing early detection and overall disease. Another challenge is the complex transmission ecology and multiple hosts/vectors. An example of this can come from lecture 15 and is the lifecycle of B. procyonis. It contains many hosts including raccoons and accidental hosts like rodents, birds, dogs, etc. Not only does it have multiple hosts, but the eggs can survive for years in the soil. The eggs come in a very high output as well. It is also a highly pathogenic larval migration in accidental hosts. This is just one example of complex transmission and multiple reservoir species. There is also non random and limited sampling. Surveillance and wildlife management often relies on opportunistic samples. As we talked about in class with the deer population, hunters are biased with the land they hunt on, leading to the killing of specific deer demographics. This can skew surveillance and lead to the possibility of missing infections in the population. 
