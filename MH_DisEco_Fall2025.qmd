@@ -368,6 +368,7 @@ It should also be known that test sensitivity is not perfect. There is a chance 
 
 
 Place the following diseases in appropriate quadrants in the above figure. Explain your choice of quadrants. (10 points) 
+quadrant 1: bottom left quadrant 2: bottom right quadrant 3: top right quadrant 4: top left
 a. SARS-CoV-2: Quadrant 4- Potential EID 
 b. Hantavirus Pulmonary Syndrome Quadrant 4- Potential EID
 c. Langya Henipavirus- Quadrant 1- spillover
